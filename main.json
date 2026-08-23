@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.46.1.21595",
-      "templateHash": "11811990464984726214"
+      "templateHash": "4003816618716180489"
     }
   },
   "parameters": {
@@ -270,7 +270,7 @@
             "_generator": {
               "name": "bicep",
               "version": "0.46.1.21595",
-              "templateHash": "16321319097044325612"
+              "templateHash": "2041882729210859235"
             }
           },
           "parameters": {
@@ -334,7 +334,7 @@
                   "imageReference": {
                     "publisher": "Canonical",
                     "offer": "ubuntu-24_04-lts",
-                    "sku": "server-gen2",
+                    "sku": "server",
                     "version": "latest"
                   },
                   "osDisk": {
