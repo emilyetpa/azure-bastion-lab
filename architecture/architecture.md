@@ -1,3 +1,3 @@
 # Azure Bastion Architecture
 
-![Azure Bastion Architecture](../images/azure-bastion-architecture.png)
+![Azure Bastion Architecture](../images/architecture.png)
