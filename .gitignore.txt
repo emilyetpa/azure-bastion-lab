@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Azure CLI
+.azure/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# SSH private keys
+*.pem
+id_rsa
+id_ed25519
+id_ecdsa
