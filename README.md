@@ -717,7 +717,7 @@ The following improvements could be added to the project in the future:
 
 # 👤 Author
 
-**Bamou Emilienne**
+**Cedric Paolo Yetpa**
 
 Azure | Networking | Infrastructure as Code | Cloud | Cybersecurity
 
