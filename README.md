@@ -613,25 +613,6 @@ Contains architecture-related documentation and diagrams.
 
 Contains screenshots and visual evidence of the deployment and validation process.
 
-Recommended screenshots include:
-
-1. Repository structure
-2. Bicep code validation
-3. `what-if` output
-4. Successful Azure deployment
-5. Azure Virtual Network
-6. Azure Bastion
-7. Virtual machine
-8. Bastion VM connection
-
-Example:
-
-```markdown
-![Azure Bastion Architecture](architecture/architecture.png)
-```
-
----
-
 # 🧹 Cleanup
 
 When the lab is no longer required, delete the resource group and its resources.
