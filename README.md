@@ -627,7 +627,7 @@ Recommended screenshots include:
 Example:
 
 ```markdown
-![Azure Bastion Architecture](architecture/azure-bastion-architecture.png)
+![Azure Bastion Architecture](architecture/architecture.png)
 ```
 
 ---
