@@ -9,7 +9,7 @@
       "value": "Standard_B2s"
     },
     "adminSshPublicKey": {
-      "value": "REPLACE_WITH_YOUR_SSH_PUBLIC_KEY"
+      "value": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICbTrxH8VkYDjmRM1K/c7CFJcPna3ZhKzRq2/tnEewKq ubuntu-vm"
     }
   }
 }
